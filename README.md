@@ -50,9 +50,7 @@ For technical issues or feedback, please open an "Issue" here on GitHub or conta
 Customer support is available in English and German. Other languages may be translated using automated tools.
 
 ### Data Controller:
-Wit App (independent developer)
-Location: United States
-Contact: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (independent developer) - Location: United States - Contact: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
