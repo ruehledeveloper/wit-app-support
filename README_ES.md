@@ -50,9 +50,7 @@ Para problemas técnicos o comentarios, abre un "Issue" aquí en GitHub o contá
 El soporte al cliente está disponible en inglés y alemán. Otros idiomas pueden ser traducidos utilizando herramientas automatizadas.
 
 ### Responsable de los datos:
-Wit App (desarrollador independiente)
-Ubicación: Estados Unidos
-Contacto: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (desarrollador independiente) - Ubicación: Estados Unidos - Contacto: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
