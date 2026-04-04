@@ -50,9 +50,7 @@ Bei technischen Problemen oder Feedback öffne bitte ein „Issue“ hier auf Gi
 Der Support ist auf Englisch und Deutsch verfügbar. Andere Sprachen werden ggf. mithilfe automatisierter Tools übersetzt.
 
 ### Verantwortlicher:
-Wit App (unabhängiger Entwickler)
-Standort: USA
-Kontakt: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (unabhängiger Entwickler) - Standort: USA - Kontakt: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
