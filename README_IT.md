@@ -50,9 +50,7 @@ Per problemi tecnici o feedback, apri un "Issue" qui su GitHub o contattaci all'
 Il supporto clienti è disponibile in inglese e tedesco. Altre lingue possono essere tradotte utilizzando strumenti automatizzati.
 
 ### Titolare del trattamento:
-Wit App (sviluppatore indipendente)
-Sede: Stati Uniti
-Contatto: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (sviluppatore indipendente) - Sede: Stati Uniti - Contatto: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
