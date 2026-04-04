@@ -4,26 +4,27 @@
 
 # Wit: Private AI Analysis
 
-**Wit** is a minimalist, privacy-first AI analysis tool for iOS. It helps you understand the world around you—from identifying phishing scams to translating travel menus—without ever requiring an account or collecting your data.
+**Wit** (short for "What is this?") is a minimalist, privacy-first AI analysis tool for iOS. It helps you understand the world around you—from identifying phishing scams to translating travel menus—without ever requiring an account or collecting your data.
 
 [Download on the App Store](#) *(Link will be active after approval)*
 
 ---
 
-## 🛡️ Privacy Policy
+## Privacy Policy
 **Last Updated: April 2026**
 
 Wit was built with a "Privacy by Design" philosophy. 
 
 - **No Accounts:** We do not require (or want) your email, phone number, or name.
-- **No Tracking:** We do not use third-party tracking or analytics SDKs.
-- **No Data Collection:** We do not collect, store, or sell any of your personal information.
+- **No Tracking:** We do not use third-party tracking or advertising SDKs.
+- **No Data Storage:** We do not store or retain your personal data on our servers.
 - **Local History:** Your analysis history is stored exclusively on your physical device. If you delete the app, the history is gone.
-- **Secure Processing:** Images are sent via encrypted (HTTPS) transit to our server for AI analysis. Images are processed in memory and are **not** stored on our servers after the analysis is complete.
+- **Secure Processing:** Images are sent via encrypted (HTTPS) transit to our server for AI analysis. Images are processed in memory and are **not** stored on our servers after the analysis is complete. We do not retain submitted images or analysis results on our servers after processing is complete.
+- **Legal Basis for Processing:** Images are processed solely to provide the requested analysis (performance of a service).
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Identify Scams:** Instantly analyze suspicious text messages or links to detect high-risk phishing attempts.
 - **Smart Travel Companion:** Snap a photo of a foreign menu or sign to get a clear, context-aware translation.
@@ -32,7 +33,7 @@ Wit was built with a "Privacy by Design" philosophy.
 
 ---
 
-## 🙋 Support & FAQ
+## Support & FAQ
 
 ### How do I use the Share Extension?
 1. Open the **Photos** app or any app with an image.
@@ -46,9 +47,25 @@ Ensure you have a stable internet connection, as the AI analysis requires a secu
 For technical issues or feedback, please open an "Issue" here on GitHub or contact us at:
 **ruehle.developer@gmail.com**
 
+Customer support is available in English and German. Other languages may be translated using automated tools.
+
+### Data Controller:
+Wit App (independent developer)
+Location: United States
+Contact: ruehle.developer@gmail.com
+
 ---
 
-## ⚖️ Legal & Disclaimer
-Wit provides AI-generated insights for informational purposes only. Even the most advanced AI systems can make mistakes. **Always verify critical safety information.**
+## Acceptable Use
 
+You agree not to use Wit for any unlawful, harmful, or abusive purposes. This includes, but is not limited to, analyzing or distributing content that is illegal, infringes on the rights of others, or violates applicable laws and regulations.
+
+Wit reserves the right to take reasonable technical measures to protect the service from misuse, including limiting or restricting access to the service where feasible.
+
+---
+
+## Legal & Disclaimer
+Wit provides AI-generated insights for informational purposes only and should not be relied upon as the sole basis for decisions involving financial, legal, or safety risks. Even the most advanced AI systems can make mistakes. **Always verify critical safety information.**
 *Wit is provided "as is" under the [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).*
+
+---
