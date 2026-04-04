@@ -50,9 +50,7 @@ AI分析にはサーバーとの安全な接続が必要なため、安定した
 カスタマーサポートは英語とドイツ語で対応しています。その他の言語は自動翻訳ツールを使用して対応する場合があります。
 
 ### データ管理者：
-Wit App (独立系開発者)
-所在地：米国
-連絡先：[ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (独立系開発者) - 所在地：米国 - 連絡先：[ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
