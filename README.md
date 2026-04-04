@@ -45,14 +45,14 @@ Ensure you have a stable internet connection, as the AI analysis requires a secu
 
 ### Contact Support
 For technical issues or feedback, please open an "Issue" here on GitHub or contact us at:
-**ruehle.developer@gmail.com**
+**[ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)**
 
 Customer support is available in English and German. Other languages may be translated using automated tools.
 
 ### Data Controller:
 Wit App (independent developer)
 Location: United States
-Contact: ruehle.developer@gmail.com
+Contact: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
