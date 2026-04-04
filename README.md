@@ -50,15 +50,26 @@ For technical issues or feedback, please open an "Issue" here on GitHub or conta
 Customer support is available in English and German. Other languages may be translated using automated tools.
 
 ### Data Controller:
-Wit App (independent developer) - Location: United States - Contact: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (independent developer)
+Location: United States
+Contact: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
-## Acceptable Use
+## Acceptable Use & Fair Usage Policy (FUP)
 
+
+### Acceptable Use
 You agree not to use Wit for any unlawful, harmful, or abusive purposes. This includes, but is not limited to, analyzing or distributing content that is illegal, infringes on the rights of others, or violates applicable laws and regulations.
 
 Wit reserves the right to take reasonable technical measures to protect the service from misuse, including limiting or restricting access to the service where feasible.
+
+### Fair Use Policy
+Wit is designed for individual, personal use by everyday users. While we offer "unlimited" analysis tiers, these are subject to our Fair Usage Policy to ensure service stability and prevent abuse.
+
+Subscriptions are intended for a single human user, not for automated, robotic, or bulk processing of images. Wit reserves the right to temporarily limit or restrict access if usage patterns suggest non-human activity or system abuse. 
+
+This policy ensures that we can keep providing high-quality AI analysis to the entire community at a fair price.
 
 ---
 
