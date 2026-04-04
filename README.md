@@ -49,9 +49,6 @@ For technical issues or feedback, please open an "Issue" here on GitHub or conta
 ---
 
 ## ⚖️ Legal & Disclaimer
-Wit provides AI-generated insights for informational purposes only. While our AI is highly advanced, it can occasionally produce inaccuracies. 
-
-- **Critical Decisions:** Always verify critical safety information (like car warning lights) with your vehicle's official manual or a professional mechanic.
-- **Financial Safety:** Use the scam detection as a tool, but always contact your bank or service provider directly through official channels before clicking suspicious links.
+Wit provides AI-generated insights for informational purposes only. Even the most advanced AI systems can make mistakes. **Always verify critical safety information.**
 
 *Wit is provided "as is" under the [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).*
