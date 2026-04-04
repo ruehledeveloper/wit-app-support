@@ -44,7 +44,7 @@ Ensure you have a stable internet connection, as the AI analysis requires a secu
 
 ### Contact Support
 For technical issues or feedback, please open an "Issue" here on GitHub or contact us at:
-**[Insert Your Support Email Here]**
+**ruehle.developer@gmail.com**
 
 ---
 
