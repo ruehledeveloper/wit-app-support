@@ -50,9 +50,7 @@ Pour tout problème technique ou commentaire, veuillez ouvrir un « Issue » ici
 Le support client est disponible en anglais et en allemand. Les autres langues peuvent être traduites à l'aide d'outils automatisés.
 
 ### Responsable du traitement :
-Wit App (développeur indépendant)
-Lieu : États-Unis
-Contact : [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (développeur indépendant) - Lieu : États-Unis - Contact : [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
