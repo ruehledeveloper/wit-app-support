@@ -19,7 +19,7 @@ Wit se creó con una filosofía de "Privacidad desde el diseño".
 - **Sin rastreo:** No utilizamos SDK de publicidad o rastreo de terceros.
 - **Sin almacenamiento de datos:** No almacenamos ni retenemos tus datos personales en nuestros servidores.
 - **Historial local:** Tu historial de análisis se almacena exclusivamente en tu dispositivo físico. Si eliminas la aplicación, el historial desaparece.
-- **Procesamiento seguro:** Las imágenes se envían mediante un tránsito cifrado (HTTPS) a nuestro servidor. Se procesan en la memoria y **no** se almacenan en nuestros servidores una vez finalizado el análisis.
+- **Procesamiento seguro:** Las imágenes se envían mediante un tránsito cifrado (HTTPS). Se procesan en la memoria y **no** se almacenan en nuestros servidores una vez finalizado el análisis.
 - **Base legal para el procesamiento:** Las imágenes se procesan únicamente para proporcionar el análisis solicitado (ejecución de un servicio).
 
 ---
@@ -40,22 +40,26 @@ Wit se creó con una filosofía de "Privacidad desde el diseño".
 2. Toca el botón **Compartir**.
 3. Busca y toca **Wit** en la lista de aplicaciones. (Si no lo ves, toca "Más" y añade Wit a tus favoritos).
 
-### Tengo problemas con un análisis. ¿Qué debo hacer?
-Asegúrate de tener una conexión a Internet estable, ya que el análisis de IA requiere una conexión segura a nuestro servidor de procesamiento.
-
 ### Contactar soporte
 Para problemas técnicos o comentarios, abre un "Issue" aquí en GitHub o contáctanos en:
 **[ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)**
 
-El soporte al cliente está disponible en inglés y alemán. Otros idiomas pueden ser traducidos utilizando herramientas automatizadas.
-
-### Responsable de los datos:
-Wit App (desarrollador independiente) - Ubicación: Estados Unidos - Contacto: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
-
 ---
 
-## Uso aceptable
-Aceptas no utilizar Wit para fines ilegales, dañinos o abusivos. Esto incluye, entre otros, el análisis o la distribución de contenido que sea ilegal o infrinja los derechos de otros.
+## Uso aceptable y política de uso justo (FUP)
+
+### Uso aceptable
+Aceptas no utilizar Wit para fines ilegales, dañinos o abusivos. Esto incluye, entre otros, el análisis o la distribución de contenido que sea ilegal, infrinja los derechos de otros o viole las leyes y regulaciones aplicables.
+
+Wit se reserva el derecho de tomar medidas técnicas razonables para proteger el servicio contra el mal uso, incluyendo la limitación o restricción del acceso cuando sea factible.
+
+
+### Política de uso justo
+Wit está diseñado para el uso individual y personal de los usuarios habituales. Aunque ofrecemos niveles de análisis "ilimitados", estos están sujetos a nuestra Política de uso justo para garantizar la estabilidad del servicio y evitar el abuso.
+
+Las suscripciones están destinadas a un único usuario humano, no para el procesamiento automatizado, robótico o masivo de imágenes. Wit se reserva el derecho de limitar o restringir temporalmente el acceso si los patrones de uso sugieren actividad no humana o abuso del sistema.
+
+Esta política garantiza que podamos seguir ofreciendo análisis de IA de alta calidad a toda la comunidad a un precio justo.
 
 ---
 

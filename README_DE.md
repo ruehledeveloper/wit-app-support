@@ -50,12 +50,26 @@ Bei technischen Problemen oder Feedback öffne bitte ein „Issue“ hier auf Gi
 Der Support ist auf Englisch und Deutsch verfügbar. Andere Sprachen werden ggf. mithilfe automatisierter Tools übersetzt.
 
 ### Verantwortlicher:
-Wit App (unabhängiger Entwickler) - Standort: USA - Kontakt: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
+Wit App (unabhängiger Entwickler)
+Standort: USA
+Kontakt: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ---
 
-## Zulässige Nutzung
-Du erklärst dich damit einverstanden, Wit nicht für rechtswidrige, schädliche oder missbräuchliche Zwecke zu verwenden. Dies umfasst insbesondere die Analyse oder Verbreitung von Inhalten, die illegal sind oder Rechte Dritter verletzen.
+## Zulässige Nutzung & Fair-Use-Policy (FUP)
+
+### Zulässige Nutzung
+Du erklärst dich damit einverstanden, Wit nicht für rechtswidrige, schädliche oder missbräuchliche Zwecke zu verwenden. Dies umfasst insbesondere die Analyse oder Verbreitung von Inhalten, die illegal sind, Rechte Dritter verletzen oder gegen geltende Gesetze und Vorschriften verstoßen.
+
+Wit behält sich das Recht vor, angemessene technische Maßnahmen zu ergreifen, um den Dienst vor Missbrauch zu schützen, einschließlich der Einschränkung des Zugangs, sofern dies angemessen erscheint.
+
+### Fair-Use-Policy
+Wit ist für die individuelle, persönliche Nutzung durch Endverbraucher konzipiert. Obwohl wir „unbegrenzte“ Analyse-Tarife anbieten, unterliegen diese unserer Fair-Use-Policy, um die Systemstabilität zu gewährleisten und Missbrauch zu verhindern.
+
+Abonnements sind für einen einzelnen menschlichen Benutzer gedacht, nicht für die automatisierte, robotergestützte oder massenweise Verarbeitung von Bildern. Wit behält sich das Recht vor, den Zugriff vorübergehend einzuschränken, wenn Nutzungsmuster auf nicht-menschliche Aktivitäten oder Systemmissbrauch hindeuten.
+
+Diese Richtlinie stellt sicher, dass wir der gesamten Community weiterhin hochwertige KI-Analysen zu einem fairen Preis anbieten können.
+
 
 ---
 

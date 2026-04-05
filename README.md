@@ -58,7 +58,6 @@ Contact: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 
 ## Acceptable Use & Fair Usage Policy (FUP)
 
-
 ### Acceptable Use
 You agree not to use Wit for any unlawful, harmful, or abusive purposes. This includes, but is not limited to, analyzing or distributing content that is illegal, infringes on the rights of others, or violates applicable laws and regulations.
 
