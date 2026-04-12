@@ -18,8 +18,8 @@ Wit wurde nach dem Prinzip „Privacy by Design“ entwickelt.
 - **Keine Benutzerkonten:** Wir benötigen (und wollen) weder deine E-Mail-Adresse, Telefonnummer noch deinen Namen.
 - **Kein Tracking:** Wir verwenden keine Tracking- oder Werbe-SDKs von Drittanbietern.
 - **Keine Datenspeicherung:** Wir speichern keine persönlichen Daten auf unseren Servern.
-- **Lokaler Verlauf:** Dein Analyse-Verlauf wird ausschließlich lokal auf deinem Gerät gespeichert. Wenn du die App löschst, wird auch der Verlauf gelöscht.
-- **Sichere Verarbeitung:** Bilder werden über eine verschlüsselte Verbindung (HTTPS) zur KI-Analyse an unseren Server gesendet. Die Bilder werden im Arbeitsspeicher verarbeitet und **nicht** auf unseren Servern gespeichert. Nach Abschluss der Analyse verbleiben keine Bilder oder Ergebnisse auf unseren Servern.
+- **Lokaler Verlauf:** Dein Analyse-Verlauf wird ausschließlich lokal auf deinem physischen Gerät gespeichert. Wenn du die App löschst, wird auch der Verlauf unwiderruflich gelöscht.
+- **Sichere Verarbeitung:** Bilder werden über eine verschlüsselte Verbindung (HTTPS) zur KI-Analyse an unseren Server gesendet. Die Bilder werden ausschließlich im Arbeitsspeicher verarbeitet und **nicht** auf unseren Servern gespeichert. Wir bewahren weder die eingereichten Bilder noch die Analyseergebnisse nach Abschluss der Verarbeitung auf.
 - **Rechtsgrundlage der Verarbeitung:** Die Verarbeitung von Bildern erfolgt ausschließlich zur Erbringung der angeforderten Analyse (Vertragserfüllung).
 
 ---
@@ -29,19 +29,19 @@ Wit wurde nach dem Prinzip „Privacy by Design“ entwickelt.
 - **Betrug erkennen:** Analysiere verdächtige Textnachrichten oder Links sofort, um riskante Phishing-Versuche zu identifizieren.
 - **Smarter Reisebegleiter:** Fotografiere eine fremdsprachige Speisekarte oder ein Schild, um eine präzise, kontextbezogene Übersetzung zu erhalten.
 - **Sicherheit auf einen Blick:** Verstehe komplexe Warnleuchten im Auto oder Warnschilder sofort.
-- **Nahtlose Integration:** Nutze die Wit-Teilen-Erweiterung, um Bilder direkt aus der Fotos-App oder einer anderen App auf deinem iPhone zu analysieren.
+- **Nahtlose Integration:** Nutze die Wit-Teilen-Erweiterung (Share Extension), um Bilder direkt aus der Fotos-App oder einer anderen App auf deinem iPhone zu analysieren.
 
 ---
 
 ## Support & FAQ
 
 ### Wie verwende ich die Teilen-Erweiterung?
-1. Öffne die **Fotos-App** oder eine App mit einem Bild.
+1. Öffne die **Fotos-App** oder eine beliebige App mit einem Bild.
 2. Tippe auf das **Teilen-Symbol**.
 3. Suche **Wit** in der Liste der Apps. (Falls nicht sichtbar, tippe auf „Mehr“ und füge Wit zu deinen Favoriten hinzu).
 
 ### Die Analyse funktioniert nicht. Was kann ich tun?
-Stelle sicher, dass du eine stabile Internetverbindung hast, da die KI-Analyse eine sichere Verbindung zu unserem Server benötigt.
+Stelle sicher, dass du eine stabile Internetverbindung hast, da die KI-Analyse eine gesicherte Verbindung zu unserem Verarbeitungsserver benötigt.
 
 ### Kontakt
 Bei technischen Problemen oder Feedback öffne bitte ein „Issue“ hier auf GitHub oder kontaktiere uns unter:
@@ -61,7 +61,7 @@ Kontakt: [ruehle.developer@gmail.com](mailto:ruehle.developer@gmail.com)
 ### Zulässige Nutzung
 Du erklärst dich damit einverstanden, Wit nicht für rechtswidrige, schädliche oder missbräuchliche Zwecke zu verwenden. Dies umfasst insbesondere die Analyse oder Verbreitung von Inhalten, die illegal sind, Rechte Dritter verletzen oder gegen geltende Gesetze und Vorschriften verstoßen.
 
-Wit behält sich das Recht vor, angemessene technische Maßnahmen zu ergreifen, um den Dienst vor Missbrauch zu schützen, einschließlich der Einschränkung des Zugangs, sofern dies angemessen erscheint.
+Wit behält sich das Recht vor, angemessene technische Maßnahmen zu ergreifen, um den Dienst vor Missbrauch zu schützen, einschließlich der Einschränkung des Zugangs, sofern dies erforderlich ist.
 
 ### Fair-Use-Policy
 Wit ist für die individuelle, persönliche Nutzung durch Endverbraucher konzipiert. Obwohl wir „unbegrenzte“ Analyse-Tarife anbieten, unterliegen diese unserer Fair-Use-Policy, um die Systemstabilität zu gewährleisten und Missbrauch zu verhindern.
@@ -70,11 +70,8 @@ Abonnements sind für einen einzelnen menschlichen Benutzer gedacht, nicht für 
 
 Diese Richtlinie stellt sicher, dass wir der gesamten Community weiterhin hochwertige KI-Analysen zu einem fairen Preis anbieten können.
 
-
 ---
 
 ## Rechtliche Hinweise & Haftungsausschluss
-Wit bietet KI-generierte Erkenntnisse ausschließlich zu Informationszwecken an. Diese sollten nicht als alleinige Grundlage für Entscheidungen mit finanziellen, rechtlichen oder sicherheitsrelevanten Risiken dienen. Auch fortschrittliche KI-Systeme können Fehler machen. **Überprüfe kritische Sicherheitsinformationen immer selbst.**
+Wit bietet KI-generierte Erkenntnisse ausschließlich zu Informationszwecken an. Diese sollten nicht als alleinige Grundlage für Entscheidungen mit finanziellen, rechtlichen oder sicherheitsrelevanten Risiken dienen. Auch fortsrittliche KI-Systeme können Fehler machen. **Überprüfe kritische Sicherheitsinformationen immer selbst.**
 *Wit wird „wie besehen“ unter der [Apple Standard-EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) bereitgestellt.*
-
----
