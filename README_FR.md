@@ -73,5 +73,6 @@ Cette politique nous permet de continuer à fournir des analyses d'IA de haute q
 ---
 
 ## Mentions légales et clause de non-responsabilité
-Wit fournit des informations générées par IA à titre informatif uniquement et ne doit pas constituer la seule base de décisions impliquant des risques financiers, juridiques ou de sécurité. Même les systèmes d'IA les plus avancés peuvent faire des erreurs. **Vérifiez toujours les informations de sécurité critiques.**
-*Wit est fourni « en l'état » selon le [CLUF standard d'Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).*
+Wit fournit des informations générées par l'IA à titre indicatif uniquement. Ces informations sont fournies « en l'état » sans aucune garantie quant à leur exactitude, leur exhaustivité ou leur fiabilité, et ne doivent pas constituer la seule base de décisions impliquant des risques financiers, juridiques ou de sécurité. Même les systèmes d'IA les plus avancés peuvent faire des erreurs et peuvent ne pas identifier tous les risques. **Les utilisateurs assument l'entière responsabilité de la vérification des informations critiques et de toute action entreprise sur la base des résultats de l'application.** *Wit est fourni selon le [CLUF standard d'Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), qui limite la responsabilité du développeur dans la mesure maximale permise par la loi.*
+
+---

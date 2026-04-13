@@ -73,5 +73,6 @@ Diese Richtlinie stellt sicher, dass wir der gesamten Community weiterhin hochwe
 ---
 
 ## Rechtliche Hinweise & Haftungsausschluss
-Wit bietet KI-generierte Erkenntnisse ausschließlich zu Informationszwecken an. Diese sollten nicht als alleinige Grundlage für Entscheidungen mit finanziellen, rechtlichen oder sicherheitsrelevanten Risiken dienen. Auch fortsrittliche KI-Systeme können Fehler machen. **Überprüfe kritische Sicherheitsinformationen immer selbst.**
-*Wit wird „wie besehen“ unter der [Apple Standard-EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) bereitgestellt.*
+Wit bietet KI-generierte Erkenntnisse ausschließlich zu Informationszwecken an. Diese Erkenntnisse werden „wie besehen“ ohne jegliche Gewährleistung hinsichtlich Genauigkeit, Vollständigkeit oder Zuverlässigkeit bereitgestellt und sollten nicht als alleinige Grundlage für Entscheidungen dienen, die finanzielle, rechtliche oder sicherheitsrelevante Risiken beinhalten. Selbst die fortschrittlichsten KI-Systeme können Fehler machen und unter Umständen nicht alle Risiken identifizieren. **Die Nutzer tragen die volle Verantwortung für die Überprüfung kritischer Informationen und für alle Maßnahmen, die auf Grundlage der App-Ergebnisse ergriffen werden.** *Wit wird unter der [Apple Standard-EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)  bereitgestellt, welche die Haftung des Entwicklers im gesetzlich maximal zulässigen Umfang beschränkt.*
+
+---

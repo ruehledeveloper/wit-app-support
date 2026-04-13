@@ -73,7 +73,6 @@ This policy ensures that we can keep providing high-quality AI analysis to the e
 ---
 
 ## Legal & Disclaimer
-Wit provides AI-generated insights for informational purposes only and should not be relied upon as the sole basis for decisions involving financial, legal, or safety risks. Even the most advanced AI systems can make mistakes. **Always verify critical safety information.**
-*Wit is provided "as is" under the [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).*
+Wit provides AI-generated insights for informational purposes only. These insights are provided "as is" without any guarantees regarding accuracy, completeness, or reliability, and should not be used as the sole basis for decisions involving financial, legal, or safety risks. Even the most advanced AI systems can make mistakes and may fail to identify all risks. **Users assume all responsibility for verifying critical information and for any actions taken based on app results.** *Wit is provided under the [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which limits developer liability to the maximum extent permitted by law.*
 
 ---

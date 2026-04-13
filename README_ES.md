@@ -73,5 +73,6 @@ Esta política garantiza que podamos seguir ofreciendo análisis de IA de alta c
 ---
 
 ## Aviso Legal y Exención de Responsabilidad
-Wit proporciona información generada por IA únicamente con fines informativos y no debe ser la única base para tomar decisiones que involucren riesgos financieros, legales o de seguridad. Incluso los sistemas de IA más avanzados pueden cometer errores. **Verifica siempre la información crítica de seguridad.**
-*Wit se proporciona "tal cual" bajo la [EULA estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).*
+Wit proporciona información generada por IA únicamente con fines informativos. Dicha información se proporciona «tal cual» sin ninguna garantía con respecto a su precisión, integridad o confiabilidad, y no debe utilizarse como la única base para tomar decisiones que involucren riesgos financieros, legales o de seguridad. Incluso los sistemas de IA más avanzados pueden cometer errores y pueden no identificar todos los riesgos. **Los usuarios asumen toda la responsabilidad de verificar la información crítica y de cualquier acción tomada en función de los resultados de la aplicación.** *Wit se proporciona bajo la [EULA estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), que limita la responsabilidad del desarrollador en la medida máxima permitida por la ley.*
+
+---
